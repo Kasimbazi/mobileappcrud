@@ -1,3 +1,8 @@
-mongod "start mongo server"
-nodemon "start node server"
-expo start "start expo server"
+"start mongo server"
+mongod
+
+"start node server"
+nodemon 
+
+"start expo server"
+expo start 
